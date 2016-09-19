@@ -1,5 +1,5 @@
 body {
-  background: #f5f5f5;
+  background: #fffff;
   display: flex;
   flex-direction: column;
   min-height: 100vh;
@@ -20,4 +20,16 @@ main {
 
 #omdb {
   text-decoration: underline;
+}
+
+.nav-wrapper {
+  background: #000000;
+}
+
+footer.page-footer {
+  background-color: #000000;
+}
+
+footer.footer-copyright {
+  background-color: #000000;
 }
